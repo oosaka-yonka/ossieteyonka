@@ -28,6 +28,7 @@ header{
 footer{
     height:35px;
     background-color: #ff0000;
+    margin-top:10px;
 }
 a{
     padding-left:10px;
