@@ -25,4 +25,11 @@ header{
     width:450px;
     padding-top:20px;
 }
+footer{
+    height:35px;
+    background-color: #ff0000;
+}
+a{
+    padding-left:10px;
+}
     
