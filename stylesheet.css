@@ -11,13 +11,14 @@ header{
     height:35px;
 }
 h3{
-    font-size:20px;
-    height:35px;  
+    font-size:20px; 
     font-family:メイリオ;
         
 }
 h1{
-    height:35px;
     font-family:メイリオ;
         
 }
+.container{
+    height:40px;
+    
