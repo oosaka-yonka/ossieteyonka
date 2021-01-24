@@ -1,13 +1,15 @@
 .title{
-    color:blue;
+    font-size:40px;
 }
 .logo{
     width:400px;
     height:20px;
     color:#fffafa;
-    float:right;
 }
 header{
     background-color: #ff0000;
     height:35px;
+}
+h3{
+    font-size:40px;
 }
