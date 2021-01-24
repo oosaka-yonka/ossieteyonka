@@ -20,7 +20,8 @@ h1{
         
 }
 .container{
-    height:100px;
+    height:80px;
     width:450px;
+    padding-top:20px;
 }
     
