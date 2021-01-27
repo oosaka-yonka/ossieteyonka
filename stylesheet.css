@@ -36,6 +36,8 @@ a{
 }
 iframe{
     height:550px;
+    margin-top:20px;
+    width:
 }
 .top-wrapper{
     background-image:url(https://cdn.pixabay.com/photo/2019/12/14/08/52/artificial-intelligence-4694502_960_720.jpg);
@@ -46,3 +48,4 @@ iframe{
 {
 .bot{
     margin:0 auto;
+    width:700px;
