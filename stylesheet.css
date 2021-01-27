@@ -12,7 +12,7 @@
     font-size:20px;
 }
 header{
-    background-color: #ff0000;
+    background-color: #000080;
     height:35px;
 }
 .yuumuseki{
@@ -27,7 +27,7 @@ header{
 }
 footer{
     height:35px;
-    background-color: #ff0000;
+    background-color: #000080;
     margin-top:10px;
 }
 a{
