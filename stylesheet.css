@@ -17,11 +17,9 @@ header{
     height:35px;
 }
 .yuumuseki{
-    font-size:30px; 
+    font-size:20px; 
     font-family:メイリオ;
     padding-bottom:15px;
-    padding-top:100px;
-    text-align:center;
 }
 .container{
     height:150px;
@@ -45,4 +43,5 @@ a{
 iframe{
     text-align:center;
     padding-top:20;
+    padding-left:500px;
 }
