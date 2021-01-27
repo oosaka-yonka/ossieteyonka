@@ -37,7 +37,7 @@ a{
 }
 iframe{
     height:550px;
-    margin-top:20px;
+    margin:0 auto;
     width:
 }
 .top-wrapper{
@@ -47,6 +47,4 @@ iframe{
     height:500px;
     opacity:0.7;
 {
-.bot{
-    margin:0 auto;
-    width:700px;
+
