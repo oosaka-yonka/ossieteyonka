@@ -23,7 +23,8 @@ header{
 }
 .container{
     height:90px;
-    padding-top:20px;
+    padding-top:300px;
+    float:right;
 }
 footer{
     height:35px;
