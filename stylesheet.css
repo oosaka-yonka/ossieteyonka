@@ -1,5 +1,5 @@
 .title{
-    font-size:20px;
+    font-size:40px;
     font-family:メイリオ;
     padding-left:10px;
 }
@@ -16,14 +16,14 @@ header{
     height:35px;
 }
 .yuumuseki{
-    font-size:20px; 
+    font-size:40px; 
     font-family:メイリオ;
     padding-bottom:15px;
     padding-left:10px;
 }
 .container{
     height:90px;
-    padding-top:300px;
+    padding-top:50px;
     float:right;
 }
 footer{
