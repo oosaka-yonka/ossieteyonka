@@ -42,9 +42,13 @@ iframe{
 }
 .sj{
     background-color:#ff0000;
-    margin-left:20px;
+    margin-left:10px;
 }
 .tn{
     background-color:#0000cd;
     margin-left:10px;
+}
+.yakkan{
+    margin-left:20px;
+    padding-top:8px;
 }
