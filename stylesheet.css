@@ -28,3 +28,19 @@ iframe{
     padding-top:20;
     margin-left:350px;
 }
+.btn{
+  padding:8px 24px;
+  color:white;
+  display:inline-block;
+  opacity:0.8;
+}
+
+.ms{
+    color:#2e8b57;
+}
+.sj{
+    color:#ff0000;
+}
+.tn{
+    color:#0000cd；
+}
