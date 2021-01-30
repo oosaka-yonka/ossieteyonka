@@ -13,6 +13,7 @@ header{
 .yuumuseki{
     font-size:20px; 
     font-family:メイリオ;
+    margin-left:20px;
 }
 
 
@@ -39,10 +40,13 @@ iframe{
 
 .ms{
     background-color:#2e8b57;
+    margin-left:10px;
 }
 .sj{
     background-color:#ff0000;
+    margin-left:20px;
 }
 .tn{
     background-color:#0000cd;
+    maegin-left:10px;
 }
