@@ -1,11 +1,11 @@
 .logo{
     padding-top:5PX;
-    padding-left:10px;
+    padding-left:20px;
     font-size:20px;
     font-family:メイリオ;
 }
 header{
-    background-color:black
+    background-color:#dcdcdc
     height:35px;
 }
 .yuumuseki{
