@@ -59,3 +59,22 @@ iframe{
     padding-top:8px;
     display:inline-block;
 }
+.ms:active{
+    box-shadow:none;
+    position:relaive;
+    top:5px;
+    left:5px;
+}
+.sj:active{
+    box-shadow:none;
+    position:relaive;
+    top:5px;
+    left:5px;
+}
+.tn:active{
+    box-shadow:none;
+    position:relaive;
+    top:5px;
+    left:5px;
+}
+
