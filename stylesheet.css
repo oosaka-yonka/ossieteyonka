@@ -5,7 +5,7 @@
     font-family:メイリオ;
 }
 header{
-    background-color:#dcdcdc
+    background-color:#dcdcdc;
     height:35px;
 }
 .yuumuseki{
@@ -18,7 +18,7 @@ header{
 footer{
     height:50px;
     paddig-top:20px;
-    background-color:#dcdcdc
+    background-color:#dcdcdc;
 }
 a{
     padding-left:10px; 
