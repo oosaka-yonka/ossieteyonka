@@ -5,7 +5,6 @@
     font-family:メイリオ;
 }
 header{
-    background-color:#dcdcdc;
     height:35px;
 }
 .yuumuseki{
@@ -51,4 +50,5 @@ iframe{
 .yakkan{
     margin-left:20px;
     padding-top:8px;
+    display:inline-block;
 }
