@@ -43,14 +43,17 @@ iframe{
 .ms{
     background-color:#2e8b57;
     margin-left:10px;
+    box-shadow:5px 5px #006400;
 }
 .sj{
     background-color:#ff0000;
     margin-left:10px;
+    box-shadow:5px 5px #880000;
 }
 .tn{
     background-color:#0000cd;
     margin-left:10px;
+    box-shadow:5px 5px #191970;
 }
 .yakkan{
     margin-left:20px;
