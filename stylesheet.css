@@ -3,8 +3,8 @@
     padding-left:20px;
     font-size:20px;
     font-family:メイリオ;
-    background-color:gray;
-    
+    align-items:center;
+
     
 }
 header{
@@ -15,7 +15,6 @@ header{
     font-size:20px; 
     font-family:メイリオ;
     margin-left:20px;
-    background-color:gray;
 }
 
 
