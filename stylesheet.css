@@ -61,19 +61,19 @@ iframe{
 }
 .ms:active{
     box-shadow:none;
-    position:relaive;
+    position: relative;
     top:5px;
     left:5px;
 }
 .sj:active{
     box-shadow:none;
-    position:relaive;
+    position: relative;
     top:5px;
     left:5px;
 }
 .tn:active{
     box-shadow:none;
-    position:relaive;
+    position: relative;
     top:5px;
     left:5px;
 }
